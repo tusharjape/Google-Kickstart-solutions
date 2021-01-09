@@ -5,7 +5,7 @@ import java.util.*;
 
 // Change class name to Solution before submitting
 
-public class Solution {
+public class y18rEp1 {
     private static PrintWriter pw = new PrintWriter(System.out);
     private static InputReader sc = new InputReader();
 

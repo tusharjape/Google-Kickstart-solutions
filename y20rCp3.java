@@ -29,37 +29,12 @@ public class y20rCp3 {
             return Integer.parseInt(tk.nextToken());
         }
 
-        private long nextLong()throws IOException{
-            next();
-            return Long.parseLong(tk.nextToken());
-        }
-
-        private String readString()throws IOException{
-            next();
-            return tk.nextToken();
-        }
-
-        private double nextDouble()throws IOException{
-            next();
-            return Double.parseDouble(tk.nextToken());
-        }
-
         private int[] intArray(int n)throws IOException{
             next();
             int arr[] = new int[n];
 
             for(int i=0; i<n; i++)
                 arr[i] = nextInt();
-
-            return arr;
-        }
-
-        private long[] longArray(int n)throws IOException{
-            next();
-            long arr[] = new long[n];
-
-            for(int i=0; i<n; i++)
-                arr[i] = nextLong();
 
             return arr;
         }
