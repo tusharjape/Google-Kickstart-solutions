@@ -7,4 +7,4 @@ Solutions for Google Kickstart
 3. Round C 2020
 4. Round D 2020
 5. Round E 2020 - Questions 1 & 2
-6. Round F 2020 - Questions 1 & 2
+6. Round F 2020 - Questions 1, 2 & 3
