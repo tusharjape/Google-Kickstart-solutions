@@ -1,3 +1,5 @@
+// Maximum coins
+
 import java.io.*;
 import java.util.*;
 
