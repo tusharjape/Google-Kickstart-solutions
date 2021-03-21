@@ -8,14 +8,7 @@ public class Sample {
     private static PrintWriter pw = new PrintWriter(System.out);
     private static InputReader sc = new InputReader();
 
-    static class Pair<T1, T2> {
-        T1 first;
-        T2 second;
-        Pair(T1 first, T2 second){
-            this.first = first;
-            this.second = second;
-        }
-    }
+    private static final int intmax = Integer.MAX_VALUE, intmin = Integer.MIN_VALUE;
 
     static class InputReader{
         private static BufferedReader r = new BufferedReader(new InputStreamReader(System.in));
