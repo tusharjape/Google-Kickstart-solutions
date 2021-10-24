@@ -3,7 +3,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Solution{
+public class y21rGp3{
 
     private static int aux[];
     private static final int maxSum = (int)1e6 + 10;
